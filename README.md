@@ -14,6 +14,6 @@ Represented [here](https://wandb.ai/_bro/task_icvr/reports/Exploratory-data-anal
 Represented [here](https://wandb.ai/_bro/task_icvr?workspace=user-_bro)
 
 ### Weights
-yolov3 [model](https://api.wandb.ai/artifactsV2/gcp-us/_bro/QXJ0aWZhY3Q6MjI4NDQ2NjQ3/9d51b8354ca00e19b13146812661a38d?_gl=1*41oicf*_ga*MTU3NTczMTY3NS4xNjU5Mzk3Mjg3*_ga_JH1SJHJQXJ*MTY2NTg0NTkxOC40Ni4xLjE2NjU4NDc5MzQuMjkuMC4w)
+yolov3 [best model](https://api.wandb.ai/artifactsV2/gcp-us/_bro/QXJ0aWZhY3Q6MjI4NDQ2NjQ3/9d51b8354ca00e19b13146812661a38d?_gl=1*41oicf*_ga*MTU3NTczMTY3NS4xNjU5Mzk3Mjg3*_ga_JH1SJHJQXJ*MTY2NTg0NTkxOC40Ni4xLjE2NjU4NDc5MzQuMjkuMC4w)
 
-yolov5 [model](https://api.wandb.ai/artifactsV2/gcp-us/_bro/QXJ0aWZhY3Q6MjI4MTk4Mzk4/2e5443f7f5a7666d386801710481fc75?_gl=1*w80vo9*_ga*MTU3NTczMTY3NS4xNjU5Mzk3Mjg3*_ga_JH1SJHJQXJ*MTY2NTg0NTkxOC40Ni4xLjE2NjU4NDgwMzAuNDcuMC4w)
+yolov5 [best model](https://api.wandb.ai/artifactsV2/gcp-us/_bro/QXJ0aWZhY3Q6MjI4MTk4Mzk4/2e5443f7f5a7666d386801710481fc75?_gl=1*w80vo9*_ga*MTU3NTczMTY3NS4xNjU5Mzk3Mjg3*_ga_JH1SJHJQXJ*MTY2NTg0NTkxOC40Ni4xLjE2NjU4NDgwMzAuNDcuMC4w)
